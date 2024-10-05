@@ -111,6 +111,4 @@ const fetchData = async () => {
 
 ## Conclusion
 
-This repository provides a comprehensive guide to making HTTP requests using the Fetch API and Axios. Proper error handling and best practices will ensure that your applications are robust and user-friendly. If you have any questions or suggestions, feel free to open an issue or submit a pull request!
-
-```
+This repository provides a comprehensive guide to making HTTP requests using the Fetch API and Axios. Proper error handling and best practices will ensure that your applications are robust and user-friendly. 
